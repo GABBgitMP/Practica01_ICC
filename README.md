@@ -1,1 +1,4 @@
 # PRACTICA 01 - INTRODUCCION A CIENCIAS DE LA COMPUTACION
+
+- ALUMNO: Martinez Padron Jorge Gabriel
+- FECHA DE ENTREGA: 9 de octubre de 2026 
