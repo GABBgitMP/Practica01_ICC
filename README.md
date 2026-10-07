@@ -21,13 +21,12 @@ Genera el RFC a partir del nombre completo y la fecha de nacimiento.
 
 ```
 /
-├── DPeña/
+├── JMartinez/
 │   └── practica01/
 │       └── src/
 │           └── icc/
 │               ├── Psicologo.java
 │               └── RFC.java
-├── .gitignore
 └── README.md
 ```
 - El código está documentado con formato Javadoc y correctamente indentad
